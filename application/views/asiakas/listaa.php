@@ -1,7 +1,5 @@
 <H1>Asiakkaat</H1>
-<?php 
-//print_r($asiakkaat);
-?>
+
 
 <TABLE border=2>
 	<TR><TH>Etunimi</TH><TH>Sukunimi</TH><TH>Email</TH><TR>
